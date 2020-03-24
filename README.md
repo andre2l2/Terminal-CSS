@@ -1,2 +1,2 @@
-# Terminal-CSS
-Um terminal em css e html.Total liberdde de mudanças.
+# Terminal design with CSS and HTML
+-----------------------------------
